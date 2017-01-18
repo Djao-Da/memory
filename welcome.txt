@@ -1,1 +1,3 @@
 print («еще раз»)
+print («hello»)
+
